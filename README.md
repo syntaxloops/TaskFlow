@@ -1,2 +1,2 @@
 # TaskFlow
-Modern Task Management Application built with React and Node.js. Tsw
+Modern Task Management Application built with React and Node.js.
